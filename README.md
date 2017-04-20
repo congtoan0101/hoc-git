@@ -1,13 +1,12 @@
-# hoc-git
 clear
 echo
-echo "***HEllo $USER"
+  echo "***HEllo $USER"
 echo
-echo "***Thu muc hien hanh"
+  echo "***Thu muc hien hanh"
 pwd
 echo
-echo "***Liet ke file va thu muc"
+  echo "***Liet ke file va thu muc"
 ls -l
 echo
-echo "***Ngay gio hien tai"
-echo "$(date)"
+ echo "***Ngay gio hien tai"
+ echo "$(date)"
